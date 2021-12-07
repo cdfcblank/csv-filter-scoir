@@ -1,4 +1,12 @@
 # csv-filter-challenge-public
+
+# How-To
+1. Run in command line using Python 3
+1. Follow directions provided in prompts (self-explanatory)
+
+# Assumptions
+1. CSV file visible from project directory
+
 # Instructions
 1. Click "Use this template" to create a copy of this repository in your personal github account.  
 1. Using technology of your choice, complete assignment listed below.
